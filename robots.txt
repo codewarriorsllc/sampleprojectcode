@@ -1,0 +1,7 @@
+# If you would like to crawl GitHub contact us via https://support.github.com/contact/
+# We also provide an extensive API: https://developer.github.com/
+
+
+
+User-agent: *
+Disallow: /
